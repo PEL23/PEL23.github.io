@@ -1,11 +1,11 @@
 # Site settings
-author: excellent-validator-4322
-title: 
+author: Pierre 
+title: A Coding Journey 
 header-img: img/home-bg.png
 email: plarmony24@gmail.com
-copyright_name: excellent-validator-4322
+copyright_name: Pierre 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  codemap to success
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  PEL23
